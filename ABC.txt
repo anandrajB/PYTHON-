@@ -1,0 +1,4 @@
+idly=5.25 dosa=10.862 chappathi=15.8269 chicken=110.8269
+chicken=125.44 idly=9.5 chappathi=20.88 dosa=15.22
+idly=15.8 chicken=150.555 dosa=25.77 chappathi=20.7586
+dosa=1000.484 chappathi=1500.784815 chicken=450.8967 dosa=750.8584
